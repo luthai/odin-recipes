@@ -1,0 +1,29 @@
+* {
+    margin-left: 10px;
+    margin-right: 100px;
+    padding-right: 250px;
+    font-family: Times, Verdana, sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    padding-left: 30px;
+}
+
+.img-recipe {
+    height: auto;
+    width: 400px;
+}
+
+ul li {
+    list-style-position: outside;
+    padding: 5px;
+}
+
+ol li {
+    list-style-position: outside;
+    padding: 5px;
+}
